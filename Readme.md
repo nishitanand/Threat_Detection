@@ -1,4 +1,4 @@
-Link to Video showing this project in action in real life: https://drive.google.com/file/d/1hIk_otC-_Ua7pSitD8_sj2X7KjbP50qh/view?usp=sharing
+Link to Video showing this **project in action in real life**: https://drive.google.com/file/d/1hIk_otC-_Ua7pSitD8_sj2X7KjbP50qh/view?usp=sharing
 
 Public safety in public areas is nowadays one of the main concerns for governments and companies around the world. There are CCTV cameras everywhere these days- public places, shops, malls, schools etc. But still people are able to commit crimes. **Guns and knives are the most common weapon used in committing crimes.** 
 
