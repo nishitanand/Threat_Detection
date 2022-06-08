@@ -1,3 +1,5 @@
+Link to the research paper **SaveLives - A Real-Time Threat Detection System**:https://ieeexplore.ieee.org/document/9786892
+
 Link to Video showing **this project in action in real life**: https://drive.google.com/file/d/1hIk_otC-_Ua7pSitD8_sj2X7KjbP50qh/view?usp=sharing
 
 Link to **Abstact and Description** : https://docs.google.com/document/d/1TqJ0syVLSr-pkCeZ44hWEo-J4MiJ2yqi5zwFt615rgs/edit?usp=sharing
